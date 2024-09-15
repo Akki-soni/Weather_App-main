@@ -1,5 +1,5 @@
 #Day1
-# Weather App | [Live View]()
+# Weather App | [Live View](https://weather-app-main-ruddy.vercel.app/)
 
 
 A simple weather application built using HTML, CSS, and JavaScript. This app allows users to get real-time weather information for any city around the world.
