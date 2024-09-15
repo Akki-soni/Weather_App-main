@@ -21,7 +21,7 @@ A simple weather application built using HTML, CSS, and JavaScript. This app all
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/weather-app.git
+    git clone https://github.com/Akki-soni/Weather_App-main.git
     ```
 2. Navigate to the project directory:
     ```bash
@@ -44,8 +44,8 @@ This app uses the [OpenWeatherMap API](https://openweathermap.org/api) to fetch 
 
 ## Author
 
-Shanedra Singh \
-LinkedIn : https://www.linkedin.com/in/shanedra-singh-47342821a/
+Akash Chandra Verma \
+LinkedIn : https://www.linkedin.com/in/akashchandraverma/
 
 ## Thank You
 
