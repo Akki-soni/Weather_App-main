@@ -1,5 +1,5 @@
 #Day1
-# Weather App | [Live View](https://shanedrasingh.github.io/Weather_App/)
+# Weather App | [Live View]()
 
 
 A simple weather application built using HTML, CSS, and JavaScript. This app allows users to get real-time weather information for any city around the world.
