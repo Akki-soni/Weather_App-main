@@ -16,36 +16,35 @@
 </p>
 
 <p align="center">
-  This is a simple Notes App built using HTML, CSS, and JavaScript. It allows users to create, view, edit, and delete notes. The application saves the notes in the browser's local storage, so they persist even after the page is refreshed.
+  A simple weather application built using HTML, CSS, and JavaScript. This app allows users to get real-time weather information for any city around the world.
 </p>
 
 ## 🚀 Features
 
-- **_Add new notes with a title and content._**
-- **_Edit or delete existing notes._**
-- **_Notes are saved automatically in local storage._**
-- **_Responsive design for mobile and desktop use._**
+- ***Fetches real-time weather data using a third-party API.***
+- ***Displays temperature, humidity, wind speed, and weather conditions.***
+- ***User-friendly interface with responsive design.***
+- ***Search functionality to find weather details by city name.***
 
 ## 🛠️ Technologies Used
 
-- **HTML**: Markup structure for the app.
-- **CSS**: Styling and layout of the app.
-- **JavaScript**: Functionality to add, edit, delete, and store notes using local storage.
+- **HTML**: For structuring the application.
+- **CSS**: For styling the application.
+- **JavaScript**: For handling the logic and API integration.
 
 ## 🚀 How to Use
 
-- **Add a Note**: Use the input fields to enter a title and content for your note, then click the "Add Note" button.
-- **View Notes**: The list of notes is displayed below the input fields.
-- **Edit a Note**: Click the "Edit" button on an existing note, update the title or content, and save the changes.
-- **Delete a Note**: Click the "Delete" button on an existing note to remove it from the list.
+- ***Open the weather app in your web browser.***
+- ***Enter the name of the city in the search bar.***
+- ***Press enter or click the search button to view the weather information for the entered city.***
 
 ## 🚀 Project Setup
 
 No external dependencies are required. Just clone the repository and open the `index.html` file in any modern web browser.
 
 ```bash
-git clone <https://github.com/Akki-soni/Notes-App-main.git>
-cd Notes App
+git clone <https://github.com/Akki-soni/Weather_App-main.git>
+cd weather-app
 open index.html
 ```
 
@@ -57,16 +56,13 @@ open index.html
 └── script.js  # The JavaScript file for functionality
 ```
 
-## 🚀 Future Improvements
+## 🚀 API
 
-- ***Add a search functionality to filter through notes.***
-- ***Implement categories or tags for notes organization.***
-- ***Sync notes with a backend server for cross-device access.***
-
+This app uses the [OpenWeatherMap API](https://openweathermap.org/api) to fetch weather data. You need to sign up for an API key and replace the placeholder in the JavaScript file with your key.
 
 ## 🌟 Screenshots
 
-![StopWatch Screenshot](/images/W-A_Screenshot.png)
+![Weather-App Screenshot](/images/W-A_Screenshot.png)
 
 ## 🔗 Live Demo
 
@@ -100,62 +96,3 @@ Contributions are welcome! If you encounter any issues or have suggestions for i
 Thank you for exploring the StopWatch! Your feedback is valuable. If you have any suggestions or thoughts, feel free to share them with us. 😊
 
 </div>
-
-
-
-
-
-
-
-
-
-A simple weather application built using HTML, CSS, and JavaScript. This app allows users to get real-time weather information for any city around the world.
-
-## Features
-
-- Fetches real-time weather data using a third-party API.
-- Displays temperature, humidity, wind speed, and weather conditions.
-- User-friendly interface with responsive design.
-- Search functionality to find weather details by city name.
-
-## Technologies Used
-
-- **HTML**: For structuring the application.
-- **CSS**: For styling the application.
-- **JavaScript**: For handling the logic and API integration.
-
-## Installation
-
-1. Clone the repository:
-    ```bash
-    git clone https://github.com/Akki-soni/Weather_App-main.git
-    ```
-2. Navigate to the project directory:
-    ```bash
-    cd weather-app
-    ```
-3. Open `index.html` in your web browser:
-    ```bash
-    open index.html
-    ```
-
-## Usage
-
-1. Open the weather app in your web browser.
-2. Enter the name of the city in the search bar.
-3. Press enter or click the search button to view the weather information for the entered city.
-
-## API
-
-This app uses the [OpenWeatherMap API](https://openweathermap.org/api) to fetch weather data. You need to sign up for an API key and replace the placeholder in the JavaScript file with your key.
-
-## Author
-
-Akash Chandra Verma \
-LinkedIn : https://www.linkedin.com/in/akashchandraverma/
-
-## Thank You
-
-Thank you for exploring Weather App! Your feedback is valuable. If you have any suggestions or thoughts, feel free to share them with us. 😊
-
----
